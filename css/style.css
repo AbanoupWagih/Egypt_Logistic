@@ -217,6 +217,9 @@ body {
 }
 @media (max-width:767px) {
   .header-area .logo span {
+    width: 160px;
+  }
+  .header-area .logo span {
     font-size: 18px;
     font-weight: bold;
     margin-left: 10px;
